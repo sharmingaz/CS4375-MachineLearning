@@ -9,3 +9,6 @@ I explored different statistical measures using C++ programming and compared it 
 
 ## Linear Models
 I found two unique data sets to explore linear models using [regression](https://github.com/sharmingaz/CS4375-MachineLearning/blob/main/Regression.pdf) and [classification](https://github.com/sharmingaz/CS4375-MachineLearning/blob/main/Classification.pdf) in R.
+
+## Machine Learning Algorithms from Scratch
+I used a titanic data set to find the logistic regression of survived based on other predictors using C++ for [program 1](https://github.com/sharmingaz/CS4375-MachineLearning/blob/main/program1_C%2B%2B_Scratch.cpp) and for [program 2] (https://github.com/sharmingaz/CS4375-MachineLearning/blob/main/program2_C%2B%2B_Scratch.cpp) I used Naive Bayes. 
